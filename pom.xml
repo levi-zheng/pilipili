@@ -12,7 +12,7 @@
     <description>pilipili</description>
 
     <modules>
-<!--        <module>pilipili-gateway</module>-->
+        <module>pilipili-gateway</module>
     </modules>
 
     <properties>
