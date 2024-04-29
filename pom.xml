@@ -13,6 +13,7 @@
 
     <modules>
         <module>pilipili-gateway</module>
+        <module>pilipili-user</module>
     </modules>
 
     <properties>
